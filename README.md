@@ -6,19 +6,22 @@ To write a python program to implement multivariate linear regression and predic
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ### Step1
-<br>
+Import Pandas and the required module from Scikit-learn.
+Read the carsemission.csv dataset.
 
 ### Step2
-<br>
+Select Weight and Volume as independent variables.
+Select CO2 as the dependent variable.
 
 ### Step3
-<br>
-
+Create and train a Multivariate Linear Regression model.
 ### Step4
-<br>
-
+Display the regression coefficients and intercept.
 ### Step5
-<br>
+Predict the CO₂ emission for:
+Weight = 3300
+Volume = 1300
+Display the predicted CO₂ emission.
 
 ## Program:
 ```
